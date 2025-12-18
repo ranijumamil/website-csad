@@ -1,0 +1,40 @@
+body {
+    font-family: Tahoma, sans-serif;
+    background-color: #F6E7B2;
+    color: #3B1F1F;
+}
+
+blockquote {
+    margin: 40px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia, serif;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    font-family: Georgia, serif;
+    margin-top: 30px;
+}
+
+hr {
+    width: 100%;
+    height: 5px;
+    background-color: #3E122B;
+    border: none;
+}
+
+.bio-text {
+    text-align: justify;
+    font-size: 14px;
+}
+
+.bio-text sup {
+    font-size: 10px;
+    color: blue;
+    vertical-align: super;
+}
